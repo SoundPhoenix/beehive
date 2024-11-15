@@ -150,7 +150,7 @@ def report_bad_ip(event):
 
 # Define a list of excluded Cloudflare WAF Rule IDs
 excepted_rule_ids = ["fa01280809254f82978e827892db4e46"]
-excepted_rule_ids = ["24.93.213.131"
+excepted_rule_ids = ["24.93.213.131"]
 
 # Print start time and end time within output
 print("==================== Start ====================")
